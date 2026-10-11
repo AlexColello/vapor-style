@@ -1,0 +1,14 @@
+{
+    "KPackageStructure": "Plasma/LookAndFeel",
+    "KPlugin": {
+        "Authors": [ { "Name": "Valve (original Vapor theme)" } ],
+        "Category": "",
+        "Description": "Unofficial repackage of the SteamOS desktop-mode look (Vapor), based on KDE Breeze Dark. Not affiliated with or endorsed by Valve.",
+        "Id": "vaporstyle.desktop",
+        "License": "GPLv2+",
+        "Name": "Vapor Style (SteamOS look)",
+        "Version": "1.0",
+        "Website": ""
+    },
+    "X-Plasma-MainScript": "defaults"
+}

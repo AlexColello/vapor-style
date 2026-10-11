@@ -1,0 +1,19 @@
+{
+    "KPackageStructure": "Plasma/Theme",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Name": "Valve (original Vapor theme)"
+            }
+        ],
+        "Category": "",
+        "Description": "Unofficial repackage of the SteamOS Vapor Plasma style, based on KDE Breeze. Not affiliated with or endorsed by Valve.",
+        "EnabledByDefault": true,
+        "Id": "vaporstyle",
+        "License": "GPL version 3",
+        "Name": "Vapor Style",
+        "Version": "1.0",
+        "Website": ""
+    },
+    "X-Plasma-API": "6.0"
+}
